@@ -1,0 +1,4 @@
+initial opening
+[Information] 	<Sun Jun 16 12:33:57 2019> 	Starting server for : Multirotor
+[Information] 	<Sun Jun 16 12:36:38 2019> 	Server stopped
+[Information] 	<Sun Jun 16 12:36:44 2019> 	Starting server for : Multirotor
