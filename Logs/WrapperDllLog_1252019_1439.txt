@@ -1,2 +1,0 @@
-initial opening
-[Information] 	<Sun May 12 14:39:41 2019> 	Starting server for : Multirotor
